@@ -13,8 +13,8 @@ This project includes:
 
 ## How to Run
 
-python password_GUI.py
-python bruteforce_demo.py
-python wordlist_generator.py
+- python password_GUI.py
+- python bruteforce_demo.py
+- python wordlist_generator.py
 
 
